@@ -2,8 +2,8 @@
 #include <WiFi.h>
 #include <WiFiClient.h>
 
-char ssid[] = "home296";     // 要連線的SSID名稱
-char pass[] = "88888888";         // wifi密碼
+char ssid[] = "********";     // 要連線的SSID名稱
+char pass[] = "********";         // wifi密碼
 int keyIndex = 0;                 // your network key Index number (needed only for WEP)
 String cloud = "test";
 
